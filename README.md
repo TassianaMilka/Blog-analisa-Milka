@@ -1,7 +1,7 @@
 # Blog Analisa Milka
 
 
-Is write in Portuguese Brazilian
+ Portuguese Brazilian
 
 
 
